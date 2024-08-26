@@ -1,0 +1,11 @@
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\CURD.exe
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\CURD.dll
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\CURD.deps.json
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\CURD.runtimeconfig.json
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\CURD.pdb
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
