@@ -12,7 +12,9 @@ namespace CURD.Repositories
             new Product { Id = 2, Name = "Product 2", Price = 20.0M },
             new Product { Id = 3, Name = "Product 3", Price = 30.0M },
             new Product { Id = 4, Name = "Product 4", Price = 30.0M },
-            new Product { Id = 5, Name = "Product 5", Price = 30.0M }
+            new Product { Id = 5, Name = "Product 5", Price = 30.0M },
+            new Product { Id = 6, Name = "Mayur Utekar", Price = 776 },
+
         };
 
 
