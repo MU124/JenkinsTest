@@ -30,3 +30,4 @@ C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\refint\CURD.dll
 C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\CURD.pdb
 C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\CURD.genruntimeconfig.cache
 C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\ref\CURD.dll
+C:\Users\Mayur Utekar\source\repos\CURD\CURD\obj\Release\net8.0\CURD.sourcelink.json
